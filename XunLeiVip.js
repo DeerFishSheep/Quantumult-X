@@ -13,7 +13,7 @@ obj.vipList = [
       "isAutoDeduct" : "1",
       "isYear" : "1",
       "payId" : "1422461465",
-      "isVip" : "2",
+      "isVip" : "5",
       "vipLevel" : "8",
       "register" : "20220520",
       "expireDate" : "20991231",
