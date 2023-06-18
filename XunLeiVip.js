@@ -21,7 +21,7 @@ obj.vipList = [
       "vipDayGrow" : "9999",
       "vipGrow" : "99999",
       "vasid" : "2",
-      "vasType" : "1"
+      "vasType" : "5"
     }
   ];
 
