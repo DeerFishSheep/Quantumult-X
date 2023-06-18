@@ -20,8 +20,8 @@ obj.vipList = [
       "payName" : "白了个鹿",
       "vipDayGrow" : "9999",
       "vipGrow" : "99999",
-      "vasid" : "2",
-      "vasType" : "2"
+      "vasid" : "1",
+      "vasType" : "1"
     }
   ];
 
