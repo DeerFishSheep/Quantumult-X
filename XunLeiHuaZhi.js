@@ -8,13 +8,13 @@ var body = $response.body;
 var url = $request.url;
 var obj = JSON.parse(body);
 
+obj.medias[0].link = obj.links["application/octet-stream"];
 obj.medias[0].need_more_quota = false;
-obj.medias[1].need_more_quota = false;
+obj.medias[0].video.frame_rate = 60;
+obj.medias[0].is_default = true;
 obj.medias[1].is_default = false;
 obj.medias[2].is_default = false;
 obj.medias[3].is_default = false;
-obj.medias[0].is_default = true;
-obj.medias[0].link = obj.links["application/octet-stream"];
 obj.medias[0].vip_types = [
 
       ];
