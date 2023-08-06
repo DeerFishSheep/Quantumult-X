@@ -6,18 +6,9 @@
 QuantumultX:
 
 [rewrite_local]
-^https?:\/\/p\.du\.163\.com\/gain\/readtime\/info\.json url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/wnyd.js
+^https?:\/\/p\.du\.163\.com\/gain\/readtime\/info\.json url script-response-body https://raw.githubusercontent.com/DeerFishSheep/Quantumult-X/main/WangYiWoNiuDuShu.js
 
 [mitm]
-hostname = p.du.163.com
-
-***************************
-Surge4 or Loon:
-
-[Script]
-http-response ^https?:\/\/p\.du\.163\.com\/gain\/readtime\/info\.json requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/wnyd.js
-
-[MITM]
 hostname = p.du.163.com
 
 **************************/
