@@ -4,6 +4,9 @@
 By: 白了个鹿🦌
 */
 
+[mitm]
+hostname = uploadpro.hellotalk8.com
+
 let url = $request.url;
 let res = $response.body;
 
@@ -16,5 +19,4 @@ if (url.indexOf("/et_login_config_querier/query") !== -1) {
 } else {
     $done({});
 
-[mitm]
-hostname = uploadpro.hellotalk8.com
+
