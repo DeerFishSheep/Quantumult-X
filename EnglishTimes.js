@@ -19,5 +19,4 @@ if (url.indexOf("/et_login_config_querier/query") !== -1) {
     $done({body: res});
 } else {
     $done({});
-
-
+}
