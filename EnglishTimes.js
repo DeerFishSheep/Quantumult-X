@@ -1,4 +1,4 @@
-^https://uploadpro.hellotalk8.com/et_login_config_querier/query
+^https://uploadpro.hellotalk8.com/et_login_config_querier/query url script-response-body https://github.com/DeerFishSheep/Quantumult-X/raw/main/EnglishTimes.js
 
 hostname = uploadpro.hellotalk8.com
 
