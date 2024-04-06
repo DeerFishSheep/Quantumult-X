@@ -4,7 +4,6 @@
 By: 白了个鹿🦌
 */
 
-^https:\/\/uploadpro\.hellotalk8\.com\/et\_login\_config\_querier\/query url script-response-body https://raw.githubusercontent.com/DeerFishSheep/Quantumult-X/main/EnglishTimes.js
 hostname = uploadpro.hellotalk8.com
 
 let url = $request.url;
