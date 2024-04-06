@@ -1,16 +1,20 @@
 /*
-‼️规则完全免费，仅供学习交流，🈲️商业用途
-✅解锁EnglishTimes无限听力阅读时间
-By: 白了个鹿🦌
-*/
+网易蜗牛读书 解锁特权
+原作者: yxiaocai & JO2EY
 
-^https://uploadpro.hellotalk8.com/et_login_config_querier/query url script-response-body https://raw.githubusercontent.com/DeerFishSheep/Quantumult-X/main/EnglishTimes.js
-hostname = uploadpro.hellotalk8.com
+***************************
+QuantumultX:
 
-let url = $request.url;
-let body = $response.body;
-let obj = JSON.parse(body);
-obj.data.switch.free_read_time = 600240;
-obj.data.free_read_count = 9999;
+[rewrite_local]
+^https?:\/\/p\.du\.163\.com\/gain\/readtime\/info\.json url script-response-body https://raw.githubusercontent.com/DeerFishSheep/Quantumult-X/main/wywn.js
+
+[mitm]
+hostname = p.du.163.com
+
+**************************/
+var body = $response.body;
+var obj = JSON.parse(body);
+
+obj.tradeEndTime = 4102415999000;
 body = JSON.stringify(obj);
 $done({body});
