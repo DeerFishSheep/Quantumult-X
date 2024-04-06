@@ -3,7 +3,7 @@
 原作者: yxiaocai & JO2EY
 */
 
-^https?:\/\/p\.du\.163\.com\/gain\/readtime\/info\.json url script-response-body https://raw.githubusercontent.com/DeerFishSheep/Quantumult-X/main/WangYiWoNiuDuShu.js
+^https?://p.du.163.com/gain/readtime url script-response-body https://raw.githubusercontent.com/DeerFishSheep/Quantumult-X/main/WangYiWoNiuDuShu.js
 hostname = p.du.163.com
 
 let body = $response.body;
