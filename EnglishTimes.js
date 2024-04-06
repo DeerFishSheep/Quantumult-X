@@ -4,13 +4,13 @@
 By: 白了个鹿🦌
 */
 
-^https://uploadpro.hellotalk8.com/et_login_config_querier/query?userid=119702&version=1.1.9&ostype=0&deviceid=A5751E15-CC77-4F16-8C43-89CBC294DB06&client_lang=zh&timezone=8 url script-response-body https://raw.githubusercontent.com/DeerFishSheep/Quantumult-X/main/EnglishTimes.js
+^https://uploadpro.hellotalk8.com/et_login_config_querier/query url script-response-body https://raw.githubusercontent.com/DeerFishSheep/Quantumult-X/main/EnglishTimes.js
 hostname = uploadpro.hellotalk8.com
 
 let url = $request.url;
-let res = $response.body;
-let obj = JSON.parse(res);
+let body = $response.body;
+let obj = JSON.parse(body);
 obj.data.switch.free_read_time = 600240;
 obj.data.free_read_count = 9999;
-res = JSON.stringify(obj);
-$done({body: res});
+body = JSON.stringify(obj);
+$done({body});
