@@ -1,11 +1,11 @@
 // ==UserScript==
 // @ScriptName        Notability
+// @AppVersion        V14.7.10
 // @AppUrl            https://apps.apple.com/app/id360593530
+// @Function          解锁永久订阅会员可更新
 // @Author            @白了个鹿
-// @Function          永久订阅会员可更新
 // @ScriptTime        20240408
 // @ScriptURL         https://raw.githubusercontent.com/DeerFishSheep/Quantumult-X/main/Notability.js
-// ==/UserScript==
 
 
 [rewrite_local]
