@@ -7,7 +7,6 @@
 // @ScriptURL         https://raw.githubusercontent.com/DeerFishSheep/Quantumult-X/main/Notability.js
 // ==/UserScript==
 
-# > 迅雷 by 白了个鹿
 
 [rewrite_local]
 ^https?:\/\/notability\.com\/(global|subscriptions) url script-response-body https://raw.githubusercontent.com/DeerFishSheep/Quantumult-X/main/Notability.js
