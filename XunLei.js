@@ -1,10 +1,11 @@
 // ==UserScript==
 // @ScriptName        迅雷
+// @AppVersion        V2.1.32
+// @AppUrl            https://apps.apple.com/app/id1503466530
+// @Function          解锁Svip + 原画倍速
 // @Author            @白了个鹿
-// @Function          迅雷解锁Svip + 原画倍速
-// @ScriptTime        20221017
+// @UpdataTime        20240408
 // @ScriptURL         https://raw.githubusercontent.com/DeerFishSheep/Quantumult-X/main/XunLei.js
-// ==/UserScript==
 
 # > 迅雷 by 白了个鹿
 
