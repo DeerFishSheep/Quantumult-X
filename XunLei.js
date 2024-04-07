@@ -3,7 +3,7 @@
 // @Author            @白了个鹿
 // @Function          迅雷解锁Svip + 原画倍速
 // @ScriptTime        20221017
-// @ScriptURL         https://raw.githubusercontent.com/DeerFishSheep/Quantumult-X/main/XunLei.conf
+// @ScriptURL         https://raw.githubusercontent.com/DeerFishSheep/Quantumult-X/main/XunLei.js
 // ==/UserScript==
 
 # > 迅雷 by 白了个鹿
