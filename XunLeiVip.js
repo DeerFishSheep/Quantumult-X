@@ -1,6 +1,6 @@
 /*
 ‼️规则完全免费，仅供学习交流，🈲️商业用途
-✅迅雷解锁部分超级会员功能
+✅迅雷解锁Svip超级会员功能
 By: 白了个鹿🦌
 */
 
@@ -8,6 +8,8 @@ var body = $response.body;
 var url = $request.url;
 var obj = JSON.parse(body);
 
+obj.nickName = "解锁成功！By:白了个鹿";
+obj.isAutoDeduct = true;
 obj.vipList = [
     {
       "daily" : "9999",
