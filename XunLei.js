@@ -20,7 +20,7 @@ var url = $request.url;
 var obj = JSON.parse(body);
 
 // 针对不同的API做不同的修改
-if (url.includes('https:\/\/api-pan.xunlei.com/drive/v1/files/')) {
+if (url.includes('https://api-pan.xunlei.com/drive/v1/files/')) {
     // 仅当URL中包含'PLAY'参数时执行修改
     if(url.includes('PLAY')){
         obj.medias[0].link = obj.links["application/octet-stream"];
@@ -34,7 +34,7 @@ if (url.includes('https:\/\/api-pan.xunlei.com/drive/v1/files/')) {
         // 如果不包含'PLAY'，则不修改响应体
         $done({});
     }
-} else if (url.includes('https:\/\/xluser-ssl.xunlei.com/xluser.core.login/v3/getuserinfo')) {
+} else if (url.includes('https://xluser-ssl.xunlei.com/xluser.core.login/v3/getuserinfo')) {
     // 修改用户信息接口的响应体
     obj.nickName = "解锁成功！By:白了个鹿";
     obj.role = "1";
@@ -46,8 +46,8 @@ if (url.includes('https:\/\/api-pan.xunlei.com/drive/v1/files/')) {
         "lastPay": "1686211943",
         "isVip": "1",
         "icon": {
-            "general": "https:\/\/xluser-ssl.xunlei.com/v1/file/icon/level/svip/normal_a/svip_level8_normal.png",
-            "small": "https:\/\/xluser-ssl.xunlei.com/v1/file/icon/level/svip/normal_b/svip_lever8_normal.png"
+            "general": "https://xluser-ssl.xunlei.com/v1/file/icon/level/svip/normal_a/svip_level8_normal.png",
+            "small": "https://xluser-ssl.xunlei.com/v1/file/icon/level/svip/normal_b/svip_lever8_normal.png"
         },
         "isNew": "0",
         "vipDayGrow": "20",
