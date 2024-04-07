@@ -8,7 +8,7 @@
 
 # > 迅雷 by 白了个鹿
 [rewrite_local]
-^https?://(api-pan.xunlei.com)|(xluser-ssl.xunlei.com)/(/drive/v1/files/)|(/xluser.core.login/v3/getuserinfo) url script-response-body https://raw.githubusercontent.com/DeerFishSheep/Quantumult-X/main/XunLei.js
+^https://(api-pan.xunlei.com)|(xluser-ssl.xunlei.com)/(/drive/v1/files/)|(/xluser.core.login/v3/getuserinfo) url script-response-body https://raw.githubusercontent.com/DeerFishSheep/Quantumult-X/main/XunLei.js
 
 [mitm]
 hostname = api-pan.xunlei.com, xluser-ssl.xunlei.com
