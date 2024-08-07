@@ -1,3 +1,6 @@
+[rewrite_local]
+https://proapi.115.com/115ios/2.0/ufile/files url script-response-body 115网盘.js
+
 [mitm]
 hostname = proapi.115.com
 
