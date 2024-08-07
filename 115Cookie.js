@@ -1,3 +1,7 @@
+[mitm]
+hostname = proapi.115.com
+
+
 let url = $request.url;
 let headers = $request.headers;
 let cid = url.match(/cid=(\d+)/);
