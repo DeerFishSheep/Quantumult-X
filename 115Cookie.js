@@ -1,5 +1,5 @@
 [rewrite_local]
-https:\/\/proapi\.115\.com\/115ios\/2\.0\/ufile\/files url script-response-body 115网盘.js
+https:\/\/proapi\.115\.com\/115ios\/2\.0\/ufile\/files url script-response-body https://raw.githubusercontent.com/DeerFishSheep/Quantumult-X/main/115Cookie.js
 
 [mitm]
 hostname = proapi.115.com
