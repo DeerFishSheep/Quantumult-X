@@ -3,11 +3,6 @@
 DOMAIN-SUFFIX,acfun.cn
 DOMAIN-SUFFIX,aixifan.com
 # > bilibili
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,bilibili.tv
 # > Tencent Video
 DOMAIN-SUFFIX,video.qq.com
@@ -21,8 +16,6 @@ DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,ykimg.com
 # > XiGua
-DOMAIN-SUFFIX,ixigua.com
-DOMAIN-SUFFIX,snssdk.com
 # > HunanTV
 DOMAIN-SUFFIX,hitv.com
 DOMAIN-SUFFIX,hunantv.com
@@ -45,17 +38,12 @@ DOMAIN-SUFFIX,music.qq.com
 DOMAIN-SUFFIX,music.tc.qq.com
 DOMAIN-SUFFIX,qqmusic.qq.com
 DOMAIN-SUFFIX,tencentmusic.com
-DOMAIN-SUFFIX,y.qq.com
 DOMAIN,aqqmusic.tc.qq.com
 DOMAIN,moo.qq.com
 # > China Music Corp
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,kugou.com
 # > Netease Cloud Music
-DOMAIN-SUFFIX,music.163.com
-DOMAIN-SUFFIX,music.126.net
-DOMAIN,mam.netease.com
-DOMAIN,api.iplay.163.com
 # > Qianqian Music
 DOMAIN-SUFFIX,qianqian.com
 DOMAIN-SUFFIX,taihe.com

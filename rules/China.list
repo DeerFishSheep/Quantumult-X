@@ -122,7 +122,6 @@ DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,163yun.com
-DOMAIN-SUFFIX,lofter.com
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,ydstatic.com
 # > PayPal
@@ -132,8 +131,6 @@ DOMAIN-SUFFIX,paypal.me
 DOMAIN-SUFFIX,paypalobjects.com
 # > Sina
 DOMAIN-SUFFIX,sina.com
-DOMAIN-SUFFIX,weibo.com
-DOMAIN-SUFFIX,weibocdn.com
 # > Sohu
 DOMAIN-SUFFIX,sohucs.com
 DOMAIN-SUFFIX,sohu-inc.com
@@ -253,9 +250,7 @@ DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,dfcfw.com
 DOMAIN-SUFFIX,dji.net
 DOMAIN-SUFFIX,docschina.org
-DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,doubanio.com
-DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,dxycdn.com
 DOMAIN-SUFFIX,dytt8.net
 DOMAIN-SUFFIX,eastmoney.com
@@ -269,13 +264,11 @@ DOMAIN-SUFFIX,gandi.net
 DOMAIN-SUFFIX,gcores.com
 DOMAIN-SUFFIX,geilicdn.com
 DOMAIN-SUFFIX,getpricetag.com
-DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,godic.net
 DOMAIN-SUFFIX,hicloud.com
 DOMAIN-SUFFIX,hongxiu.com
 DOMAIN-SUFFIX,hostbuf.com
 DOMAIN-SUFFIX,huxiucdn.com
-DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,ibm.com
 DOMAIN-SUFFIX,infinitynewtab.com
 DOMAIN-SUFFIX,ithome.com
@@ -337,7 +330,6 @@ DOMAIN-SUFFIX,xmcdn.com
 DOMAIN-SUFFIX,yangkeduo.com
 DOMAIN-SUFFIX,yizhibo.com
 DOMAIN-SUFFIX,zhangzishi.cc
-DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhihuishu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhuihd.com
