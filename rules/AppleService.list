@@ -3,7 +3,7 @@
 DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net
-DOMAIN,ppq.apple.com // Enterprise App validation
+DOMAIN,ppq.apple.com// Enterprise App validation
 # > App Store Connect
 DOMAIN,appstoreconnect.apple.com
 DOMAIN,iosapps-ssl.itunes.apple.com

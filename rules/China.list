@@ -44,8 +44,6 @@ DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,blizzard.com
 # > bilibili
 DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,bilibili.tv
 # > ByteDance
 DOMAIN-SUFFIX,feiliao.com
 DOMAIN-SUFFIX,pstatp.com
