@@ -84,7 +84,6 @@ DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,streaming.mediaservices.windows.net
 DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
-DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
 # > The New York Times
 DOMAIN-SUFFIX,nyt.com
@@ -596,8 +595,6 @@ DOMAIN,ocsp.apple.com
 DOMAIN,xp.apple.com
 # > DigiCert
 DOMAIN,cacerts.digicert.com
-DOMAIN,crl3.digicert.com
-DOMAIN,crl4.digicert.com
 DOMAIN,ocsp.digicert.com
 # > Others
 DOMAIN-SUFFIX,en.ipip.net

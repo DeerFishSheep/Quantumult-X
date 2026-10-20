@@ -13,12 +13,9 @@ DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,dingtalk.com
 DOMAIN-SUFFIX,mxhichina.com
-DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,tmall.hk
-DOMAIN-SUFFIX,ykimg.com
-DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,xiami.net
 # > Apple
@@ -48,14 +45,10 @@ DOMAIN-SUFFIX,blizzard.com
 # > bilibili
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,hdslb.com
 # > ByteDance
 DOMAIN-SUFFIX,feiliao.com
 DOMAIN-SUFFIX,pstatp.com
-DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,iesdouyin.com
 DOMAIN-SUFFIX,toutiao.com
 # > CCTV
@@ -69,10 +62,7 @@ DOMAIN-SUFFIX,didialift.com
 DOMAIN-SUFFIX,didiglobal.com
 DOMAIN-SUFFIX,udache.com
 # > HunanTV
-DOMAIN-SUFFIX,hitv.com
-DOMAIN-SUFFIX,mgtv.com
 # > iQiyi
-DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN-SUFFIX,71.am
 # > JD
@@ -116,7 +106,6 @@ DOMAIN-SUFFIX,visualstudio.com
 # DOMAIN-SUFFIX,1drv.com
 # DOMAIN-SUFFIX,storage.live.com
 # >> Outlook
-DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,outlook.com
 DOMAIN,outlook.office365.com
 DOMAIN,smtp.office365.com
@@ -148,7 +137,6 @@ DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibocdn.com
 # > Sohu
-DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,sohucs.com
 DOMAIN-SUFFIX,sohu-inc.com
 DOMAIN-SUFFIX,v-56.com
@@ -248,7 +236,6 @@ DOMAIN-SUFFIX,agora.io
 DOMAIN-SUFFIX,aicoinstorge.com
 DOMAIN-SUFFIX,air-matters.com
 DOMAIN-SUFFIX,air-matters.io
-DOMAIN-SUFFIX,aixifan.com
 DOMAIN-SUFFIX,amd.com
 DOMAIN-SUFFIX,b612.net
 DOMAIN-SUFFIX,bdatu.com
@@ -257,7 +244,6 @@ DOMAIN-SUFFIX,booking.com
 DOMAIN-SUFFIX,bstatic.com
 DOMAIN-SUFFIX,cailianpress.com
 DOMAIN-SUFFIX,camera360.com
-DOMAIN-SUFFIX,chaoxing.com
 DOMAIN-SUFFIX,chaoxing.com
 DOMAIN-SUFFIX,chinaso.com
 DOMAIN-SUFFIX,chuimg.com

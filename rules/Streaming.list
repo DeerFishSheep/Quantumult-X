@@ -28,7 +28,6 @@ DOMAIN-SUFFIX,soundcloud.com
 # > Spotify
 USER-AGENT,Spotify*
 DOMAIN-SUFFIX,pscdn.co
-DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-KEYWORD,spotify.com
@@ -63,7 +62,6 @@ DOMAIN,atv-ps.amazon.com
 DOMAIN,fls-na.amazon.com
 DOMAIN,avodmp4s3ww-a.akamaihd.net
 DOMAIN,d25xi40x97liuc.cloudfront.net
-DOMAIN,dmqdd6hw24ucf.cloudfront.net
 DOMAIN,dmqdd6hw24ucf.cloudfront.net
 DOMAIN,d22qjgkvxw22r6.cloudfront.net
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
@@ -189,7 +187,6 @@ DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
 # > Naver TV
 USER-AGENT,Naver%20TV*
-DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,smartmediarep.com
 # > Netflix
 USER-AGENT,Argo*
@@ -269,7 +266,6 @@ DOMAIN-KEYWORD,-tiktokcdn-com
 # > TVer
 USER-AGENT,TVer-Release*
 DOMAIN-SUFFIX,tver.jp
-DOMAIN,edge.api.brightcove.com
 # > Twitch
 DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,ttvnw.net
@@ -285,9 +281,5 @@ DOMAIN,d2anahhhmp1ffz.cloudfront.net
 DOMAIN,dfp6rglgjqszk.cloudfront.net
 # > YouTube
 USER-AGENT,com.google.ios.youtube*
-USER-AGENT,YouTube*
-DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,ytimg.com
 DOMAIN,youtubei.googleapis.com
-DOMAIN,yt3.ggpht.com
